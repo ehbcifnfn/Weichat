@@ -1,7 +1,7 @@
 # -可以每天向自己的女朋友推送消息，自定义设置
 
 ## 天气接口自己去申请关注免费api公众号搜素天气获取接口
-![image](https://github.com/ehbcifnfn/-/blob/master/1.jpg)
+<img src="https://github.com/ehbcifnfn/-/blob/master/1.jpg" width="50%" height="50%">
 
 
 ## 项目拉去到本地要初始化
@@ -19,7 +19,7 @@ npm i node-schedule
 node main.js
 
 ## 成功推送
-<img src="https://github.com/ehbcifnfn/-/blob/master/2.jpg" height="60%">
+<img src="https://github.com/ehbcifnfn/-/blob/master/2.jpg" height="60%" width="50%">
 
 
 
