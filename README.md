@@ -45,10 +45,10 @@ node main.js
 {{note_ch.DATA}}
 
 ## 提交的数据data
-  touser: "推送用户id",
+
+      touser: "推送用户id",
   
       template_id: "模板id",
-      
       
       url: "http://weixin.qq.com/download",
 
