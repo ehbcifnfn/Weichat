@@ -5,9 +5,6 @@
 ![image](https://github.com/ehbcifnfn/-/blob/master/1.jpg)
 
 
-
-
-
 #项目拉去到本地要初始化
 npm install 
 
@@ -15,6 +12,7 @@ npm install
 
 #安装axios库  node-schedule库
 npm i axios 
+
 npm i node-schedule
 
 
@@ -23,6 +21,7 @@ node main.js
 
 #成功推送
 ![image](https://github.com/ehbcifnfn/-/blob/master/2.jpg)
+
 
 #消息模板格式
 时间：{{data.DATA}} 
