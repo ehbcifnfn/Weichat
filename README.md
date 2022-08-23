@@ -20,7 +20,9 @@ npm i node-schedule
 node main.js
 
 #成功推送
+<img src="https://github.com/ehbcifnfn/-/blob/master/2.jpg" height="60%">
 ![image](https://github.com/ehbcifnfn/-/blob/master/2.jpg)
+
 
 
 #消息模板格式
