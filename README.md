@@ -46,7 +46,10 @@ node main.js
 
 ## 提交的数据data
   touser: "推送用户id",
+  
       template_id: "模板id",
+      
+      
       url: "http://weixin.qq.com/download",
 
       topcolor: "#FF0000",
